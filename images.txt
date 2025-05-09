@@ -1,8 +1,6 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-nvidia/cuda:11.8.0-base
+quay.io/coreos/etcd:v3.5.18
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.5.10-gpu
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

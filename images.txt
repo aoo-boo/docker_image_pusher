@@ -2,7 +2,7 @@ quay.io/coreos/etcd:v3.5.18
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.5.10-gpu
 python:3.10-slim
-paddlepaddle/paddle:2.5.2-gpu-cuda11.7-cudnn8.2-trt8.4
+paddlepaddle/paddle:3.0.0-gpu-cuda11.8-cudnn8.9-trt8.6
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

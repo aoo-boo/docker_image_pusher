@@ -3,6 +3,7 @@ minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.5.10-gpu
 python:3.10-slim
 paddlepaddle/paddle:3.0.0-gpu-cuda11.8-cudnn8.9-trt8.6
+ubuntu:22.04
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

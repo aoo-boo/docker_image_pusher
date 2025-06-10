@@ -7,3 +7,4 @@ ubuntu:22.04
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 node:22-slim

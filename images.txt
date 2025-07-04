@@ -7,8 +7,8 @@ ubuntu:22.04
 python:3.8-slim
 python:3.8
 lmsysorg/sglang:v0.4.7-cu124
-ghcr.io/huggingface/text-embeddings-inference:cpu-1.7.3
-ghcr.io/huggingface/text-embeddings-inference:cpu-1.7.2
+ghcr.io/huggingface/text-embeddings-inference:1.7.3
+ghcr.io/huggingface/text-embeddings-inference:1.7.2
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

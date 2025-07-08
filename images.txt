@@ -9,6 +9,7 @@ python:3.8
 lmsysorg/sglang:v0.4.7-cu124
 ghcr.io/huggingface/text-embeddings-inference:1.7.3
 ghcr.io/huggingface/text-embeddings-inference:1.7.2
+lmsysorg/sglang:v0.4.8.post1-cu126
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

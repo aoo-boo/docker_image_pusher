@@ -8,9 +8,5 @@ python:3.12-slim
 lmsysorg/sglang:v0.4.7-cu124
 ghcr.io/huggingface/text-embeddings-inference:1.8
 lmsysorg/sglang:v0.4.9.post5-cu126
-docker.m.daocloud.io/lmsysorg/sglang:v0.4.9.post6-cu126
 imagemagick
 
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
---platform=linux/amd64 node:22-slim

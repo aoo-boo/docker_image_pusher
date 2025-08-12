@@ -7,8 +7,6 @@ ubuntu:20.04
 python:3.12-slim
 ghcr.io/huggingface/text-embeddings-inference:1.8
 lmsysorg/sglang:v0.4.9.post5-cu126
-imagemagick
-nvidia/cuda:12.2.0-devel-ubuntu22.04
 lmsysorg/sglang:v0.4.10.post2-cu126
 
 

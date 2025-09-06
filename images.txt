@@ -6,6 +6,8 @@ paddlepaddle/paddle:3.0.0-gpu-cuda11.8-cudnn8.9-trt8.6
 ubuntu:20.04
 
 ghcr.io/huggingface/text-embeddings-inference:1.8
+ghcr.io/huggingface/text-embeddings-inference:cuda-1.8.1
+ghcr.io/huggingface/text-embeddings-inference:1.8.1
 lmsysorg/sglang:v0.4.9.post5-cu126
 lmsysorg/sglang:v0.4.10.post2-cu126
 lmsysorg/sglang:v0.4.10.post1-cu126

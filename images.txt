@@ -11,7 +11,7 @@ ghcr.io/huggingface/text-embeddings-inference:1.8.1
 lmsysorg/sglang:v0.4.9.post5-cu126
 lmsysorg/sglang:v0.4.10.post2-cu126
 lmsysorg/sglang:v0.4.10.post1-cu126
-vllm/vllm-openai:latest
+vllm/vllm-openai:nightly-f849ee739cdb3d82fce1660a6fd91806e8ae9bff
 vllm/vllm-openai:v0.11.0
 
 

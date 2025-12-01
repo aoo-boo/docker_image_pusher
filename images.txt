@@ -4,7 +4,6 @@ milvusdb/milvus:v2.5.10-gpu
 python:3.10-slim
 ubuntu:20.04
 
-vllm/vllm-openai:nightly-f849ee739cdb3d82fce1660a6fd91806e8ae9bff
 vllm/vllm-openai:v0.11.0
 
 zeroclue/comfyui:production-torch2.8.0-cu128

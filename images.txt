@@ -14,6 +14,7 @@ lmsysorg/sglang:v0.4.10.post1-cu126
 vllm/vllm-openai:nightly-f849ee739cdb3d82fce1660a6fd91806e8ae9bff
 vllm/vllm-openai:v0.11.0
 
+zeroclue/comfyui:production-torch2.8.0-cu128
 
 --platform=linux/arm64 python:3.12-slim
 --platform=linux/arm64 python:3.10-slim

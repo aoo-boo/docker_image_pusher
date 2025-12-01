@@ -2,15 +2,8 @@ quay.io/coreos/etcd:v3.5.18
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.5.10-gpu
 python:3.10-slim
-paddlepaddle/paddle:3.0.0-gpu-cuda11.8-cudnn8.9-trt8.6
 ubuntu:20.04
 
-ghcr.io/huggingface/text-embeddings-inference:1.8
-ghcr.io/huggingface/text-embeddings-inference:cuda-1.8.1
-ghcr.io/huggingface/text-embeddings-inference:1.8.1
-lmsysorg/sglang:v0.4.9.post5-cu126
-lmsysorg/sglang:v0.4.10.post2-cu126
-lmsysorg/sglang:v0.4.10.post1-cu126
 vllm/vllm-openai:nightly-f849ee739cdb3d82fce1660a6fd91806e8ae9bff
 vllm/vllm-openai:v0.11.0
 

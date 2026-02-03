@@ -1,2 +1,1 @@
-mysql:9.5.0
-redis:8.4.0
+qwenllm/qwen3-asr
